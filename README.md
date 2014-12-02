@@ -1,3 +1,11 @@
+# Kami version.
+
+If you just want to use, please pull the lastest-published branch.
+
+## Version 1.0.1
+
+Replace "fonts.googleapis.com" to "fonts.useso.com"
+
 # Strapdown.js
 
 Strapdown.js makes it embarrassingly simple to create elegant Markdown documents. No server-side compilation required. 
