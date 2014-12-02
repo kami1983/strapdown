@@ -2,6 +2,7 @@
   "author": "Artur Adib",
   "name": "strapdown",
   "version": "0.0.0",
+  "description": "Fork version by LinHai",
   "dependencies": {
     "shelljs": "0.0.6"
   },
