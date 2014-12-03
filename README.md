@@ -1,6 +1,8 @@
 # Kami version.
 
-If you just want to use, please pull the lastest-published branch.
+## Version 1.0.2
+
+Replace "https://fonts.useso.com" to "http://fonts.useso.com"
 
 ## Version 1.0.1
 
